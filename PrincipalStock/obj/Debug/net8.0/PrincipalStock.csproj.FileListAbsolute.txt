@@ -126,3 +126,4 @@ C:\Users\joeli\Downloads\Stock\Stock\Stock\PrincipalStock\obj\Debug\net8.0\stati
 C:\Users\joeli\Downloads\Stock\Stock\Stock\PrincipalStock\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PrincipalStock.props
 C:\Users\joeli\Downloads\Stock\Stock\Stock\PrincipalStock\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\joeli\Downloads\Stock\Stock\Stock\PrincipalStock\obj\Debug\net8.0\scopedcss\bundle\PrincipalStock.styles.css
+C:\Users\joeli\Downloads\Stock\Stock\Stock\PrincipalStock\obj\Debug\net8.0\PrincipalStock.sourcelink.json
