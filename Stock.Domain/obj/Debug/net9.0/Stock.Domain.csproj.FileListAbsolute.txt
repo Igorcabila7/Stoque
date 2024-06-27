@@ -1,0 +1,28 @@
+C:\Users\Igor Cabila\source\repos\Stock\Stock.Domain\bin\Debug\net9.0\Stock.Domain.deps.json
+C:\Users\Igor Cabila\source\repos\Stock\Stock.Domain\bin\Debug\net9.0\Stock.Domain.runtimeconfig.json
+C:\Users\Igor Cabila\source\repos\Stock\Stock.Domain\bin\Debug\net9.0\Stock.Domain.dll
+C:\Users\Igor Cabila\source\repos\Stock\Stock.Domain\bin\Debug\net9.0\Stock.Domain.pdb
+C:\Users\Igor Cabila\source\repos\Stock\Stock.Domain\obj\Debug\net9.0\Stock.Domain.csproj.AssemblyReference.cache
+C:\Users\Igor Cabila\source\repos\Stock\Stock.Domain\obj\Debug\net9.0\Stock.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor Cabila\source\repos\Stock\Stock.Domain\obj\Debug\net9.0\Stock.Domain.AssemblyInfoInputs.cache
+C:\Users\Igor Cabila\source\repos\Stock\Stock.Domain\obj\Debug\net9.0\Stock.Domain.AssemblyInfo.cs
+C:\Users\Igor Cabila\source\repos\Stock\Stock.Domain\obj\Debug\net9.0\Stock.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Igor Cabila\source\repos\Stock\Stock.Domain\obj\Debug\net9.0\Stock.Domain.dll
+C:\Users\Igor Cabila\source\repos\Stock\Stock.Domain\obj\Debug\net9.0\refint\Stock.Domain.dll
+C:\Users\Igor Cabila\source\repos\Stock\Stock.Domain\obj\Debug\net9.0\Stock.Domain.pdb
+C:\Users\Igor Cabila\source\repos\Stock\Stock.Domain\obj\Debug\net9.0\Stock.Domain.genruntimeconfig.cache
+C:\Users\Igor Cabila\source\repos\Stock\Stock.Domain\obj\Debug\net9.0\ref\Stock.Domain.dll
+C:\Users\leoga\Downloads\Stock\Stock\Stock.Domain\bin\Debug\net9.0\Stock.Domain.deps.json
+C:\Users\leoga\Downloads\Stock\Stock\Stock.Domain\bin\Debug\net9.0\Stock.Domain.runtimeconfig.json
+C:\Users\leoga\Downloads\Stock\Stock\Stock.Domain\bin\Debug\net9.0\Stock.Domain.dll
+C:\Users\leoga\Downloads\Stock\Stock\Stock.Domain\bin\Debug\net9.0\Stock.Domain.pdb
+C:\Users\leoga\Downloads\Stock\Stock\Stock.Domain\obj\Debug\net9.0\Stock.Domain.csproj.AssemblyReference.cache
+C:\Users\leoga\Downloads\Stock\Stock\Stock.Domain\obj\Debug\net9.0\Stock.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leoga\Downloads\Stock\Stock\Stock.Domain\obj\Debug\net9.0\Stock.Domain.AssemblyInfoInputs.cache
+C:\Users\leoga\Downloads\Stock\Stock\Stock.Domain\obj\Debug\net9.0\Stock.Domain.AssemblyInfo.cs
+C:\Users\leoga\Downloads\Stock\Stock\Stock.Domain\obj\Debug\net9.0\Stock.Domain.csproj.CoreCompileInputs.cache
+C:\Users\leoga\Downloads\Stock\Stock\Stock.Domain\obj\Debug\net9.0\Stock.Domain.dll
+C:\Users\leoga\Downloads\Stock\Stock\Stock.Domain\obj\Debug\net9.0\refint\Stock.Domain.dll
+C:\Users\leoga\Downloads\Stock\Stock\Stock.Domain\obj\Debug\net9.0\Stock.Domain.pdb
+C:\Users\leoga\Downloads\Stock\Stock\Stock.Domain\obj\Debug\net9.0\Stock.Domain.genruntimeconfig.cache
+C:\Users\leoga\Downloads\Stock\Stock\Stock.Domain\obj\Debug\net9.0\ref\Stock.Domain.dll

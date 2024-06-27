@@ -1,0 +1,34 @@
+C:\Users\Igor Cabila\source\repos\Stock\Stock.Infra.Data\obj\Debug\net9.0\Stock.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\Igor Cabila\source\repos\Stock\Stock.Infra.Data\obj\Debug\net9.0\Stock.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor Cabila\source\repos\Stock\Stock.Infra.Data\obj\Debug\net9.0\Stock.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Igor Cabila\source\repos\Stock\Stock.Infra.Data\obj\Debug\net9.0\Stock.Infra.Data.AssemblyInfo.cs
+C:\Users\Igor Cabila\source\repos\Stock\Stock.Infra.Data\obj\Debug\net9.0\Stock.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Igor Cabila\source\repos\Stock\Stock.Infra.Data\bin\Debug\net9.0\Stock.Infra.Data.deps.json
+C:\Users\Igor Cabila\source\repos\Stock\Stock.Infra.Data\bin\Debug\net9.0\Stock.Infra.Data.runtimeconfig.json
+C:\Users\Igor Cabila\source\repos\Stock\Stock.Infra.Data\bin\Debug\net9.0\Stock.Infra.Data.dll
+C:\Users\Igor Cabila\source\repos\Stock\Stock.Infra.Data\bin\Debug\net9.0\Stock.Infra.Data.pdb
+C:\Users\Igor Cabila\source\repos\Stock\Stock.Infra.Data\bin\Debug\net9.0\Stock.Domain.dll
+C:\Users\Igor Cabila\source\repos\Stock\Stock.Infra.Data\bin\Debug\net9.0\Stock.Domain.pdb
+C:\Users\Igor Cabila\source\repos\Stock\Stock.Infra.Data\obj\Debug\net9.0\Stock.In.AC4AB40D.Up2Date
+C:\Users\Igor Cabila\source\repos\Stock\Stock.Infra.Data\obj\Debug\net9.0\Stock.Infra.Data.dll
+C:\Users\Igor Cabila\source\repos\Stock\Stock.Infra.Data\obj\Debug\net9.0\refint\Stock.Infra.Data.dll
+C:\Users\Igor Cabila\source\repos\Stock\Stock.Infra.Data\obj\Debug\net9.0\Stock.Infra.Data.pdb
+C:\Users\Igor Cabila\source\repos\Stock\Stock.Infra.Data\obj\Debug\net9.0\Stock.Infra.Data.genruntimeconfig.cache
+C:\Users\Igor Cabila\source\repos\Stock\Stock.Infra.Data\obj\Debug\net9.0\ref\Stock.Infra.Data.dll
+C:\Users\leoga\Downloads\Stock\Stock\Stock.Infra.Data\bin\Debug\net9.0\Stock.Infra.Data.deps.json
+C:\Users\leoga\Downloads\Stock\Stock\Stock.Infra.Data\bin\Debug\net9.0\Stock.Infra.Data.runtimeconfig.json
+C:\Users\leoga\Downloads\Stock\Stock\Stock.Infra.Data\bin\Debug\net9.0\Stock.Infra.Data.dll
+C:\Users\leoga\Downloads\Stock\Stock\Stock.Infra.Data\bin\Debug\net9.0\Stock.Infra.Data.pdb
+C:\Users\leoga\Downloads\Stock\Stock\Stock.Infra.Data\bin\Debug\net9.0\Stock.Domain.dll
+C:\Users\leoga\Downloads\Stock\Stock\Stock.Infra.Data\bin\Debug\net9.0\Stock.Domain.pdb
+C:\Users\leoga\Downloads\Stock\Stock\Stock.Infra.Data\obj\Debug\net9.0\Stock.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\leoga\Downloads\Stock\Stock\Stock.Infra.Data\obj\Debug\net9.0\Stock.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leoga\Downloads\Stock\Stock\Stock.Infra.Data\obj\Debug\net9.0\Stock.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\leoga\Downloads\Stock\Stock\Stock.Infra.Data\obj\Debug\net9.0\Stock.Infra.Data.AssemblyInfo.cs
+C:\Users\leoga\Downloads\Stock\Stock\Stock.Infra.Data\obj\Debug\net9.0\Stock.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\leoga\Downloads\Stock\Stock\Stock.Infra.Data\obj\Debug\net9.0\Stock.In.AC4AB40D.Up2Date
+C:\Users\leoga\Downloads\Stock\Stock\Stock.Infra.Data\obj\Debug\net9.0\Stock.Infra.Data.dll
+C:\Users\leoga\Downloads\Stock\Stock\Stock.Infra.Data\obj\Debug\net9.0\refint\Stock.Infra.Data.dll
+C:\Users\leoga\Downloads\Stock\Stock\Stock.Infra.Data\obj\Debug\net9.0\Stock.Infra.Data.pdb
+C:\Users\leoga\Downloads\Stock\Stock\Stock.Infra.Data\obj\Debug\net9.0\Stock.Infra.Data.genruntimeconfig.cache
+C:\Users\leoga\Downloads\Stock\Stock\Stock.Infra.Data\obj\Debug\net9.0\ref\Stock.Infra.Data.dll

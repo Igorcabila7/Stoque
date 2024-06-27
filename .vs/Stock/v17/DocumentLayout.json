@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joeli\\Downloads\\Stock\\Stock\\Stock\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48DFA18A-C71A-4039-AB34-67C2454F6B6C}|PrincipalStock\\PrincipalStock.csproj|c:\\users\\joeli\\downloads\\stock\\stock\\stock\\principalstock\\dtoresposta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48DFA18A-C71A-4039-AB34-67C2454F6B6C}|PrincipalStock\\PrincipalStock.csproj|solutionrelative:principalstock\\dtoresposta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DtoResposta.cs",
+              "DocumentMoniker": "C:\\Users\\joeli\\Downloads\\Stock\\Stock\\Stock\\PrincipalStock\\DtoResposta.cs",
+              "RelativeDocumentMoniker": "PrincipalStock\\DtoResposta.cs",
+              "ToolTip": "C:\\Users\\joeli\\Downloads\\Stock\\Stock\\Stock\\PrincipalStock\\DtoResposta.cs",
+              "RelativeToolTip": "PrincipalStock\\DtoResposta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T14:11:35.278Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
