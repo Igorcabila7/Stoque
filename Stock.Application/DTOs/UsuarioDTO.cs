@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
+using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
 namespace Stock.Application.DTOs
@@ -39,9 +40,7 @@ namespace Stock.Application.DTOs
         [Required]
         [StringLength(100)]
         public string password{ get; set; }
-
-        public byte[] PasswordHash { get; set; }
-        public byte[] PasswordSalt { get; set; }
+       
     }
 }
 

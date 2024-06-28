@@ -10,8 +10,8 @@ namespace Stock.Application.Interfaces
 {
     public interface IMovimentoStockService
     {
-        Task<movimentostock> Incluir(MovimentoStockDTO Movimento);
-        Task<Usuario> SelecionarAsync(int id);
-        Task<IEnumerable<Usuario>> SelecionarTodosAsync();
+        Task<MovimentoStockDTO> Incluir(MovimentoStockDTO Movimento);
+        Task<MovimentoStockDTO> SelecionarAsync(int id);
+        Task<IEnumerable<MovimentoStockDTO>> SelecionarTodosAsync();
     }
 }

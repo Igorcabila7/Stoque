@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\joeli\\Downloads\\Stock\\Stock\\Stock\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{48DFA18A-C71A-4039-AB34-67C2454F6B6C}|PrincipalStock\\PrincipalStock.csproj|c:\\users\\joeli\\downloads\\stock\\stock\\stock\\principalstock\\dtoresposta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48DFA18A-C71A-4039-AB34-67C2454F6B6C}|PrincipalStock\\PrincipalStock.csproj|solutionrelative:principalstock\\dtoresposta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,19 +26,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DtoResposta.cs",
-              "DocumentMoniker": "C:\\Users\\joeli\\Downloads\\Stock\\Stock\\Stock\\PrincipalStock\\DtoResposta.cs",
-              "RelativeDocumentMoniker": "PrincipalStock\\DtoResposta.cs",
-              "ToolTip": "C:\\Users\\joeli\\Downloads\\Stock\\Stock\\Stock\\PrincipalStock\\DtoResposta.cs",
-              "RelativeToolTip": "PrincipalStock\\DtoResposta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T14:11:35.278Z",
-              "EditorCaption": ""
             }
           ]
         }

@@ -33,11 +33,12 @@ namespace Stock.Infra.loc
             //Repositories
             services.AddScoped<IUsuarioRepository,UsuarioRepository>();
             services.AddScoped<IProdutoRepository, ProdutoRepository>();
-            
+            services.AddScoped<IMovimentostockRepository, MovimentoStockRepository>();
+
             //Serviços
             services.AddScoped<IUsuarioService, UsuarioService>();
             services.AddScoped<IProdutoService, ProdutoService>();
-
+            services.AddScoped<IMovimentoStockService, MovimentoStockService>();
             return services;
         }   
      }

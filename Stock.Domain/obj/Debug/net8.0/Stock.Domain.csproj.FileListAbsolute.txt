@@ -26,3 +26,4 @@ C:\Users\joeli\Downloads\Stock\Stock\Stock\Stock.Domain\obj\Debug\net8.0\refint\
 C:\Users\joeli\Downloads\Stock\Stock\Stock\Stock.Domain\obj\Debug\net8.0\Stock.Domain.pdb
 C:\Users\joeli\Downloads\Stock\Stock\Stock\Stock.Domain\obj\Debug\net8.0\Stock.Domain.genruntimeconfig.cache
 C:\Users\joeli\Downloads\Stock\Stock\Stock\Stock.Domain\obj\Debug\net8.0\ref\Stock.Domain.dll
+C:\Users\joeli\Downloads\Stock\Stock\Stock\Stock.Domain\obj\Debug\net8.0\Stock.Domain.sourcelink.json

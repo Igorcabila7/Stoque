@@ -41,11 +41,10 @@ namespace PrincipalStock.Controllers
             return Ok("Movimento encontrado");
         }
 
-        [HttpGet("Todos usuarios")]
+        [HttpGet("TodosMovimentos")]
         public async Task<IActionResult> SelecionarTodos()
         {
             var movimentos = await _movimentoService.SelecionarTodosAsync();
-
 
             return Ok(movimentos);
         }

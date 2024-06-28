@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace Stock.Infra.Data.Repositories
 {
-    internal class MovimentoStockRepository : IMovimentostockRepository
+    public class MovimentoStockRepository : IMovimentostockRepository
     {
 
         private readonly ApplicationDbContext _context;
@@ -38,19 +38,6 @@ namespace Stock.Infra.Data.Repositories
             return movimento;
         }
 
-        public Task<IEnumerable<Usuario>> SelecionrAsync(int id)
-        {
-            throw new NotImplementedException();
-        }
-
-        Task<Usuario> IMovimentostockRepository.SelecionarAsync(int id)
-        {
-            throw new NotImplementedException();
-        }
-
-        Task<IEnumerable<Usuario>> IMovimentostockRepository.SelecionarTodosAsync()
-        {
-            throw new NotImplementedException();
-        }
+       
     }
 }

@@ -21,7 +21,6 @@ namespace Stock.Domain.Entities
         public string movimento { get; private set; }
         public DateTime dateTime {  get; private set; }
         public int produtoid { get; set; }
-        public movimentostock Movimentostock { get; private set; }
         public produto produto { get; set; }
         
 

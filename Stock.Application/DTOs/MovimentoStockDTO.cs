@@ -20,5 +20,9 @@ namespace Stock.Application.DTOs
         [Required]
         [StringLength(100, MinimumLength = 3, ErrorMessage = "O nome completo deve ter no minimo 3 caracter.'Tirar','Colocar','Adicionar','Remover','Debitar','Creditar'")]
         public string movimento { get; set; }
+
+        [Required]
+
+        public int produtoid { get; set; }
     }
 }

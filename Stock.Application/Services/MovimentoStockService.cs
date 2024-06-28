@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
 using Stock.Application.DTOs;
+using Stock.Application.Interfaces;
 using Stock.Domain.Entities;
 using Stock.Domain.Interfaces;
 using System;
@@ -10,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace Stock.Application.Services
 {
-    internal class MovimentoStockService : IMovimentostockRepository
+    public class MovimentoStockService : IMovimentoStockService
     {
         private readonly IMovimentostockRepository _repository;
         private readonly IMapper _mapper;
@@ -29,11 +30,6 @@ namespace Stock.Application.Services
             return _mapper.Map<MovimentoStockDTO>(movimentoincluir);
         }
 
-        public Task<movimentostock> Incluir(movimentostock Movimento)
-        {
-            throw new NotImplementedException();
-        }
-
         public async  Task<MovimentoStockDTO> SelecionarAsync(int id)
         {
             var movimento = await _repository.SelecionarAsync(id);
@@ -44,16 +40,6 @@ namespace Stock.Application.Services
         {
             var movimento = await _repository.SelecionarTodosAsync();
             return _mapper.Map<IEnumerable<MovimentoStockDTO>>(movimento);
-        }
-
-        Task<Usuario> IMovimentostockRepository.SelecionarAsync(int id)
-        {
-            throw new NotImplementedException();
-        }
-
-        Task<IEnumerable<Usuario>> IMovimentostockRepository.SelecionarTodosAsync()
-        {
-            throw new NotImplementedException();
         }
     }
 }

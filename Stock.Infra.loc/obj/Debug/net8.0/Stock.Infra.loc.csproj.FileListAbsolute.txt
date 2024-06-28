@@ -40,3 +40,4 @@ C:\Users\joeli\Downloads\Stock\Stock\Stock\Stock.Infra.loc\obj\Debug\net8.0\refi
 C:\Users\joeli\Downloads\Stock\Stock\Stock\Stock.Infra.loc\obj\Debug\net8.0\Stock.Infra.loc.pdb
 C:\Users\joeli\Downloads\Stock\Stock\Stock\Stock.Infra.loc\obj\Debug\net8.0\Stock.Infra.loc.genruntimeconfig.cache
 C:\Users\joeli\Downloads\Stock\Stock\Stock\Stock.Infra.loc\obj\Debug\net8.0\ref\Stock.Infra.loc.dll
+C:\Users\joeli\Downloads\Stock\Stock\Stock\Stock.Infra.loc\obj\Debug\net8.0\Stock.Infra.loc.sourcelink.json

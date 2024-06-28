@@ -36,3 +36,4 @@ C:\Users\joeli\Downloads\Stock\Stock\Stock\Stock.Application\obj\Debug\net8.0\re
 C:\Users\joeli\Downloads\Stock\Stock\Stock\Stock.Application\obj\Debug\net8.0\Stock.Application.pdb
 C:\Users\joeli\Downloads\Stock\Stock\Stock\Stock.Application\obj\Debug\net8.0\Stock.Application.genruntimeconfig.cache
 C:\Users\joeli\Downloads\Stock\Stock\Stock\Stock.Application\obj\Debug\net8.0\ref\Stock.Application.dll
+C:\Users\joeli\Downloads\Stock\Stock\Stock\Stock.Application\obj\Debug\net8.0\Stock.Application.sourcelink.json

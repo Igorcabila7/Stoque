@@ -52,8 +52,6 @@ namespace Stock.Domain.Entities
         public string UserSector { get; private set; }
         public string UserNacionalidade { get; private set; }
         public string Password { get; private set; }
-        public byte[] PasswordHash { get; private set; } 
-        public byte[] PasswordSalt { get; private set; }
         public ICollection<Contactos> Contactos { get; set; }
         public ICollection<Localizacao> Localizacao { get; set; }
 
