@@ -4,6 +4,7 @@ using Stock.Domain.Entities;
 using Stock.Domain.Interfaces;
 using Stock.Infra.Data.Context;
 using System;
+using Stock.Application.DTOs;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -14,6 +15,11 @@ namespace Stock.Infra.Data.Repositories
     public class UsuarioRepository : IUsuarioRepository
     {
         private readonly ApplicationDbContext _context;
+
+        public UsuarioRepository()
+        {
+        }
+
         public UsuarioRepository(ApplicationDbContext context) { 
         
          _context = context;

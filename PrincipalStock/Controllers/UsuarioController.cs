@@ -16,6 +16,16 @@ namespace PrincipalStock.Controllers
         {
             _usuarioService = usuarioService;
         }
+        [HttpPost("login")]
+        public async Task<ActionResult> logarUsuario(loginDTO credencias)
+        {
+            var result = await _usuarioService.logarUsuario(credencias);
+            if(result == false) 
+            {
+                return BadRequest("Ocorreu um erro ao cadastar o usuario");
+            }
+            Ok(result);
+        }
 
         [HttpPost("Cadastrar")]
         public async Task<ActionResult> Incluir (UsuarioDTO usuarioDTO)

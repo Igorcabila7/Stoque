@@ -43,6 +43,12 @@ namespace Stock.Application.Services
             return _mapper.Map<UsuarioDTO>(usuarioincluir);
         }
 
+        public async Task<bool> logarUsuario(loginDTO credencias)
+        {
+            bool verificarCredencias = await _repository.logarUsuario(credencias);
+            return verificarCredencias;
+        }
+
         public async Task<UsuarioDTO> SelecionarAsync(int id)
         {
             var usuario = await _repository.SelecionarAsync(id);

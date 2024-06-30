@@ -12,7 +12,7 @@
 	  <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.6">
 	    <PrivateAssets>all</PrivateAssets>
 	    <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
-	  </PackageReference>
+	  </PackageReference>*
 	  <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.6">
 	    <PrivateAssets>all</PrivateAssets>
 	    <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
@@ -26,6 +26,7 @@
 
 	<ItemGroup>
 		<ProjectReference Include="..\Stock.Domain\Stock.Domain.csproj" />
+		<ProjectReference Include="..\Stock.Application\Stock.Application.csproj" />
 	</ItemGroup>
 
 </Project>
